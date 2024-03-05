@@ -6,7 +6,7 @@
 
 # 👋 Intro
 
-> 안녕하세요! ***"항상 새로운 것을 배우고 즐기는"*** 송민호입니다!  
+> 안녕하세요! ***"열정 , 끈기 , 헌신하는 "*** 송민호입니다!  
 > 6개월간 ***팀장***을 맡으며 팀 프로젝트를 진행하여 백엔드, 프론트엔드 개발자 역량을 길렀고 
 > 이해한 내용들은 같이 공부하는 동료들에게 설명하며 다시한번 학습했고 <a href="https://hyungju91.tistory.com/">
 > <img src="https://img.shields.io/badge/tstory-FF5722?style=for-the-badge&logo=tistory&logoColor=white" alt="블로그"></a> 티스토리에 정리하고있습니다.
