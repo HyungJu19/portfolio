@@ -37,9 +37,9 @@
 >
 
 
->> [프로젝트 상세 설명(SpringBoot Back-end)](https://github.com/HyungJu19/Eatable_App_Frontend)
+>> [프로젝트 상세 설명(SpringBoot Back-end)](https://github.com/HyungJu19/EatTable_Backend)
 >> <br/>
->>[프로젝트 상세 설명(React Front-end)](https://github.com/HyungJu19/EatTable_Backend) 
+>>[프로젝트 상세 설명(React Front-end)](https://github.com/HyungJu19/Eatable_App_Frontend) 
 
 
 <br />
