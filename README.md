@@ -12,7 +12,7 @@
 <br />
 <br />
 
-# 📝Projects
+# 📝 Team Projects
 
 ## 2. 🍽 음식점 실시간웨이팅 , 리뷰커뮤니티 , 간편한 업체 입점등록
 
@@ -71,6 +71,18 @@ linex 명령어로 AWS EC2 와  RDS 를 사용해서 배포도 해보면서 새�
 <br />
 
 
+# 📝Toy Projects
+
+3일간 간단한 서빙로봇 시뮬레이션을 css 와  canversAPI 로 구현 
+동적으로  목표지점으로 이동하게 했으며 호출벨, 엘리베이터, 차임벨에 상호작용하는거처럼 구현 
+그외  상품 색상변경 페이지 , 데이터 chart.js 로 시각화 페이지 구현 
+
+> 토이프로젝트 (서빙로봇 색상변경 및 시뮬레이션 , 데이터 시각화)
+> - 개발기간 2024 03.01 - 03.03
+> - 사용기술 : 리액트, chart.js, canversAPI, Html, Css, javaScript
+
+
+>> [프로젝트 상세 설명](https://github.com/HyungJu19/R_PROJECT_F)
 <br />
 <br />
 
